@@ -38,7 +38,7 @@
         
         Add a Label widget on Virtual Pin V1 to display door status
 
-        📘 Reference: Blynk Documentation
+        📘 Reference: Blynk Documentation https://docs.blynk.io/en
         
 
 🧠 Hardware Components
